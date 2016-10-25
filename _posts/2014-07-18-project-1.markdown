@@ -7,13 +7,13 @@ img: forestryio/images/primacoustic-feat.jpg
 alt: Primacoustic
 project-date: Aug 2016
 client: Primacoustic
-description: "Acoustic panels for several different industries from home studios to
+description: 'Acoustic panels for several different industries from home studios to
   restaurants. Primacoustic is a sister company to Radial Engineering that needed
   some serious updates. The final product uses wordpress for the CMS. I designed the
   site and helped with some front end development. I directed the team and reported
   to the owner for each stage of the process. There was roughly 250 pages and post
   types full of content so planning was key. We separated products as a post type
   so that we could manipulate the products for future apps like a room calculator
-  and graphic price list. \r\n\r\n\r\n[www.primacoustic.com](http://www.primacoustic.com/)\r\n\r\n"
+  and graphic price list. '
 categories: Web Development
 ---
