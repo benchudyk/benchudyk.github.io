@@ -1,5 +1,5 @@
 # Site settings
-title: BenChudyk
+title: Ben Chudyk
 email: ben.chudyk@gmail.com
 url: https://benchudyk.github.io
 description: "I'm a creative designer with experience in web and print."
@@ -49,7 +49,7 @@ address:
   - line: Surrey, BC
 
 # Credits content
-credits: 'Nearly 30 :( graphic designer)'
+credits: 'Nearly 30 :( graphic designer'
 
 # Build settings
 markdown: kramdown
