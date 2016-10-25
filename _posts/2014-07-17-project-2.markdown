@@ -1,15 +1,17 @@
 ---
-title: 
+title: Hafler
 date: '2014-07-17 00:00:00'
 layout: default
 modal-id: 2
-img: cake.png
+img: forestryio/images/hafler-web.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-description: Use this area of the page to describe your project. The icon above is
-  part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>.
-  On their website, you can download their free set with 16 icons, or you can purchase
-  the entire set with 146 icons for only $12!
+project-date: Aug 2016
+client: Hafler
+description: 'Hafler has a long legacy of power amps for hifi listening systems. The
+  brand was purchased and several new products were developed. The logo was decided
+  but I was in charge of branding and packaging. For the initial 6 products I created
+  box, manuals and other print materials. As well as designed and assisted the development
+  of the site. The website is a static HTML site using LESS and bootstrap for the
+  responsive framework. '
 categories: Web Development
 ---
