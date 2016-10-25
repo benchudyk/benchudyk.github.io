@@ -1,12 +1,19 @@
 ---
+title: ''
+date: '2014-07-18 00:00:00'
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
-
+img: forestryio/images/primacoustic-feat.jpg
+alt: Primacoustic
+project-date: Aug 2016
+client: Primacoustic
+description: 'Acoustic panels for several different industries from home studios to
+  restaurants. Primacoustic is a sister company to Radial Engineering that needed
+  some serious updates. The final product uses wordpress for the CMS. I designed the
+  site and helped with some front end development. I directed the team and reported
+  to the owner for each stage of the process. There was roughly 250 pages and post
+  types full of content so planning was key. We separated products as a post type
+  so that we could manipulate the products for future apps like a room calculator
+  and graphic price list. '
+categories: Web Development
 ---
