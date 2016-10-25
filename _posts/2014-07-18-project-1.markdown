@@ -17,4 +17,4 @@ description: 'Acoustic panels for several different industries from home studios
   and graphic price list. '
 categories: Web Development
 ---
-[www.primacoustic.com](http://www.primacoustic.com)
+www.primacoustic.com
