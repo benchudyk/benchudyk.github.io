@@ -34,7 +34,7 @@ footer:
   copyright: Ben Chudyk
   location: Location
   social: Around the Web
-  credits: About
+  credits: Favorite Guitarist
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -45,11 +45,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 6967 179a Street
-  - line: Surrey, BC
+  - line: Langley, BC
+
 
 # Credits content
-credits: 'Nearly 30 :( graphic designer'
+credits: 'Slash'
 
 # Build settings
 markdown: kramdown
