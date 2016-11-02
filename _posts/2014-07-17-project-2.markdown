@@ -12,8 +12,8 @@ description: "Hafler has a long legacy of power amps for hifi listening systems.
   but I was in charge of branding and packaging. For the initial 6 products I created
   box, manuals and other print materials. As well as designed and assisted the development
   of the site. The website is a static HTML site using LESS and bootstrap for the
-  responsive framework. \n\n<h3>What</h3>\n<ul>\n<li>Product photography</li>\n<li>Product
-  packaging</li>\n<li>Technical documents</li>\n<li>Web design & development</li>\n</ul>"
+  responsive framework. \n\n<h3>What</h3>\n<p>Product photography<br>\nProduct packaging<br>\nTechnical
+  documents<br>\nWeb design & development</p>\n"
 categories: Web Development
 ---
 www.hafler.com
