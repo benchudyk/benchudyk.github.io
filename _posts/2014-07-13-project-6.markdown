@@ -10,6 +10,16 @@ client: Industry Workwear
 description: |
   Industry Workwear is a local retail store that has two locations and wanted an online presence. I worked with them and a developer to design a custom woocomerce site and I currently manage the online store.
   <a href="www.industryworkwear.ca">www.industryworkwear.ca</a>
+
+  <img class="img-responsive" src="/forestryio/images/hafler-responsive.jpg">
 categories: Web Development
 ---
-www.industryworkwear.ca
+### Project Included:
+
+Wordpress Custom Theme Design
+
+Product and Content Management
+
+Email Newsletters
+
+Adwords and Retarget Marketing
