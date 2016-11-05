@@ -9,5 +9,6 @@ project-date: Sept 2013
 client: Yokohama
 description: 'While working for Fastsigns we were contracted to wrap cars for Yokohama.
   I designed and installed vinyl that would fit cars to spec. '
-categories: Print
+categories:
+- Print
 ---

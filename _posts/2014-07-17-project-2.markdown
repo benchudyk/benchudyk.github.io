@@ -14,7 +14,8 @@ description: "Hafler has a long legacy of power amps for hifi listening systems.
   of the site. The website is a static HTML site using LESS and bootstrap for the
   responsive framework. \n\n<p><a target=\"_blank\" href=\"www.hafler.com\">www.hafler.com</a></p>\n\n<img
   class =\"img-responsive\" src=\"/forestryio/images/hafler-responsive.jpg\">"
-categories: Web Development
+categories:
+- Web Development
 ---
 ### Project Included:
 

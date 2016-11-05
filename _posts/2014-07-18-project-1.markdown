@@ -16,7 +16,8 @@ description: "Acoustic panels for several different industries from home studios
   so that we could manipulate the products for future apps like a room calculator
   and graphic price list. \n\n<a target=\"_blank\" href=\"www.primacoustic.com\">www.primacoustic.com</a>\n\n<img
   class=\"img-responsive\" src=\"/forestryio/images/primacoustic-web-mockup.jpg\">"
-categories: Web Development
+categories:
+- Web Development
 ---
 ### Project Included:
 

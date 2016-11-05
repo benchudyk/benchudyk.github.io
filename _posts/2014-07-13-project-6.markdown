@@ -12,7 +12,8 @@ description: |
   <a target="_blank" href="http://www.industryworkwear.ca">www.industryworkwear.ca</a>
 
   <img class="img-responsive" src="/forestryio/images/industry-web-mockup.jpg">
-categories: Web Development
+categories:
+- Web Development
 ---
 ### Project Included:
 
