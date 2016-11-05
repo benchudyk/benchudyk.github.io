@@ -10,11 +10,11 @@ client: Jensen Transformers
 description: "Another company Radial had purchased to ensure manufacturing for their
   audio transformers. The original website and brand was re designed. The website
   was developed with wordpress and bootstrap. I had designed the website and print
-  materials. \n\n<a href=\"www.jensen-transformers.com\">www.jensen-transformers.com</a>\n\n<img
+  materials. \n\n<a target=\"_blank\" href=\"www.jensen-transformers.com\">www.jensen-transformers.com</a>\n\n<img
   class=\"img-responsive\" src=\"/forestryio/images/jensen-web-mockup.jpg\">"
 categories: Web Development
 ---
-Project Included:
+### Project Included:
 
 Custom Wordpress Theme Design
 
