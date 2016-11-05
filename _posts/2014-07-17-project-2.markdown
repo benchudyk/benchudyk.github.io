@@ -16,7 +16,7 @@ description: "Hafler has a long legacy of power amps for hifi listening systems.
   class =\"img-responsive\" src=\"/forestryio/images/hafler-responsive.jpg\">"
 categories: Web Development
 ---
-Project Included:
+### Project Included:
 
 Product Photography
 
