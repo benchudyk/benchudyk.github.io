@@ -7,9 +7,10 @@ img: forestryio/images/radial-web-mockup.jpg
 alt: image-alt
 project-date: April 2014
 client: Radial Engineering
-description: Radial Engineering is the parent company of several projects I worked
-  on. They are an audio device manufacturer that works with artists all around the
-  world. My job is print and web design for most projects that come through.
+description: |-
+  Radial Engineering is the parent company of several projects I worked on. They are an audio device manufacturer that works with artists all around the world. My job is print and web design for most projects that come through.
+
+  <a target="_blank" href="www.radialeng.com">www.radialeng.com</a>
 categories: Web Development
 ---
 ### Projects Included:
