@@ -18,6 +18,4 @@ description: "Hafler has a long legacy of power amps for hifi listening systems.
   src=\"/forestryio/images/hafler-responsive.jpg\">"
 categories: Web Development
 ---
-[www.hafler.com](www.hafler.com)
-
-![]({{ site.baseurl }}/forestryio/images/hafler-responsive.jpg)
+update
