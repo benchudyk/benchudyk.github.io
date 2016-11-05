@@ -12,7 +12,8 @@ description: "Another company Radial had purchased to ensure manufacturing for t
   was developed with wordpress and bootstrap. I had designed the website and print
   materials. \n<br>\n<br>\n\n<a target=\"_blank\" href=\"http://www.jensen-transformers.com\">www.jensen-transformers.com</a>\n\n<img
   class=\"img-responsive\" src=\"/forestryio/images/jensen-web-mockup.jpg\">"
-categories: Web Development
+categories:
+- Web Development
 ---
 ### Project Included:
 
