@@ -12,10 +12,16 @@ description: "Hafler has a long legacy of power amps for hifi listening systems.
   but I was in charge of branding and packaging. For the initial 6 products I created
   box, manuals and other print materials. As well as designed and assisted the development
   of the site. The website is a static HTML site using LESS and bootstrap for the
-  responsive framework. \n\n<h3>My Involvment</h3>\n<p>Product photography<br>\nProduct
-  packaging<br>\nTechnical documents<br>\nWeb design & development\n</p>\n\n<p><a
-  href=\"www.hafler.com\">www.hafler.com</a></p>\n\n<img class =\"img-responsive\"
-  src=\"/forestryio/images/hafler-responsive.jpg\">"
+  responsive framework. \n\n<p><a href=\"www.hafler.com\">www.hafler.com</a></p>\n\n<img
+  class =\"img-responsive\" src=\"/forestryio/images/hafler-responsive.jpg\">"
 categories: Web Development
 ---
-update
+Project Included:
+
+Product Photography
+
+Owner Manuals
+
+Product Packaging
+
+Web Design and Development
