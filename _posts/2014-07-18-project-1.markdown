@@ -18,7 +18,7 @@ description: "Acoustic panels for several different industries from home studios
   class=\"img-responsive\" src=\"/forestryio/images/primacoustic-web-mockup.jpg\">"
 categories: Web Development
 ---
-Project Included:
+### Project Included:
 
 Web Design and Development
 
