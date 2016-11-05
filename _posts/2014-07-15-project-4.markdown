@@ -3,7 +3,7 @@ title: Radial Engineering
 date: '2014-07-15 00:00:00'
 layout: default
 modal-id: 4
-img: forestryio/images/radial-feat.jpg
+img: forestryio/images/radial-web-mockup.jpg
 alt: image-alt
 project-date: April 2014
 client: Radial Engineering
@@ -12,4 +12,14 @@ description: Radial Engineering is the parent company of several projects I work
   world. My job is print and web design for most projects that come through.
 categories: Web Development
 ---
-www.radialeng.com
+### Projects Included:
+
+Product Photography
+
+Print and Web Design
+
+Video
+
+Email Newsletters
+
+Adword and SEO managment
